@@ -1,9 +1,11 @@
+/* Universal box formatting */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Page background */
 body {
     background-color: #d9dcd6;
 }
@@ -43,11 +45,13 @@ li {
     font-size: 20px;
 }
 
+/* Link text */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph content */
 p {
     font-size: 16px;
 }
@@ -62,11 +66,13 @@ figure {
     background-position: center;
 }
 
+/* Float element to left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Float element to right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -79,6 +85,7 @@ main {
     margin-left: 20px;
 }
 
+/* Items in main content area */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,13 +95,15 @@ main section {
     color: #ffffff;
 }
 
-main section img {
-    max-height: 200px;
-}
-
+/* Main content item headers */
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* Images in main content area */
+main section img {
+    max-height: 200px;
 }
 
 /* Aside content area */
@@ -109,16 +118,19 @@ aside {
     background-color: #2589bd;
 }
 
+/* Aside content items */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Aside item headers */
 aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Images in aside items */
 aside section img {
     display: block;
     margin: 10px auto;
@@ -133,6 +145,7 @@ footer {
     text-align: center;
 }
 
+/* Copyright text */
 footer h2 {
     font-size: 20px;
 }
