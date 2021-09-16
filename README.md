@@ -4,6 +4,20 @@ This is a model of a website refactorization for optimizing accessibility. Acces
 
 ![Deployed page preview](./assets/accessibility-code-refactor-site.PNG)
 
+### HTML Refactorization
+
+`<div>` tags are very useful for formatting via CSS, however they do not offer context and thus interact poorly with accessibility software. This can be avoided by replacing these tags with semantic HTML elements such as `<nav>` and `<section>`, without changing the webpage's appearance when deployed.
+
+![HTML refactorization](./assets/accessibility-code-refactor-html.PNG)
+
+### Alt Text & ARIA Attributes
+
+For the vision-impaired, alt text is important for screen reading software to convey the image content of a page. For other elements, ARIA attributes provide a similar function.
+
+![ARIA attributes](./assets/accessibility-code-refactor-aria.PNG)
+
+---
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -21,6 +35,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Upload index.html and assets folder to webhosting site, such as GitHub.
 1. If using GitHub, deploy via GitHub Pages.
+
+---
 
 ## Built With
 
