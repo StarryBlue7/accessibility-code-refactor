@@ -1,6 +1,6 @@
 # Accessibility Code Refactor
 
-One paragraph of project description goes here.
+Accessibility is a vital aspect for consideration when designing web interfaces whether for public or simply commercial use. 
 
 ## Getting Started
 
@@ -8,58 +8,36 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+* IDE to view/edit source code (e.g. Visual Studio Code)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development environment running.
+1. Clone repository.
+1. Open [index.html](index.html) in web browser to view.
 
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+![Deployed page preview](./assets/accessibility-code-refactor-site.PNG)
 
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [GitHub](https://github.com/)
 
-## Deployed Link
+## Deployed Page
 
-* [See Live Site](#)
+* [See Live Site](https://starryblue7.github.io/accessibility-code-refactor/)
 
 
-## Authors
+## Author
 
-* **YOUR NAME** 
+Vince Lee
+- [Portfolio](https://starryblue7.github.io/)
+- [Github](https://github.com/StarryBlue7)
+- [LinkedIn](https://www.linkedin.com/in/vince-lee/)
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Adapted from webpage provided by [UCB Coding Bootcamp](https://bootcamp.berkeley.edu/coding/).
+* Image and emoji captioning for screen readers inspired by Rachel Leggett's article ["How to Make Emojis Accessible in HTML"](https://dev.to/rleggos/how-to-make-emojis-accessible-in-html-2n71).

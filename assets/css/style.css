@@ -109,7 +109,7 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -119,7 +119,7 @@ aside section h3 {
     text-align: center;
 }
 
-.benefit img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
