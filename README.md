@@ -1,8 +1,6 @@
 # Accessibility Code Refactor
 
-This is a model of a website with some optimizations for accessibility. Accessibility is a vital aspect for consideration when designing web interfaces whether for public or simply commercial use. Not only does coding for greater accessibility allow a website to reach a wider audience of users, but it can also increase a websites SEO and prevent legal recourse.
-
-Of course, there is a wide range of possible disabilities to consider, so this project was primarily focused on code refactoring for use of semantic HTML elements, descriptive input for screen readers, and organization of flow.
+This is a model of a website refactorization for optimizing accessibility. Accessibility is a vital aspect for consideration when designing web interfaces whether for public or simply commercial use. There is a wide range of possible disabilities to consider, so this project was primarily focused on code refactoring for use of semantic HTML elements, descriptive input for screen readers, and organization of flow.
 
 ![Deployed page preview](./assets/accessibility-code-refactor-site.PNG)
 
@@ -44,5 +42,6 @@ Vince Lee
 
 ## Acknowledgments
 
-* Adapted from webpage provided by [UCB Coding Bootcamp](https://bootcamp.berkeley.edu/coding/).
+* Adapted from webpage provided by [UC Berkeley Coding Bootcamp](https://bootcamp.berkeley.edu/coding/).
 * Image and emoji captioning for screen readers inspired by Rachel Leggett's article ["How to Make Emojis Accessible in HTML"](https://dev.to/rleggos/how-to-make-emojis-accessible-in-html-2n71).
+* Accessibility assessed via automated software from [Lighthouse Chrome Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
