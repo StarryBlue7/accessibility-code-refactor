@@ -1,6 +1,10 @@
 # Accessibility Code Refactor
 
-Accessibility is a vital aspect for consideration when designing web interfaces whether for public or simply commercial use. 
+This is a model of a website with some optimizations for accessibility. Accessibility is a vital aspect for consideration when designing web interfaces whether for public or simply commercial use. Not only does coding for greater accessibility allow a website to reach a wider audience of users, but it can also increase a websites SEO and prevent legal recourse.
+
+Of course, there is a wide range of possible disabilities to consider, so this project was primarily focused on code refactoring for use of semantic HTML elements, descriptive input for screen readers, and organization of flow.
+
+![Deployed page preview](./assets/accessibility-code-refactor-site.PNG)
 
 ## Getting Started
 
@@ -8,15 +12,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* IDE to view/edit source code (e.g. Visual Studio Code)
+* IDE to view/edit source code (e.g. Visual Studio Code).
 
 ### Installing
 
 1. Clone repository.
-1. Open [index.html](index.html) in web browser to view.
+1. Open [index.html](index.html) in web browser.
 
-![Deployed page preview](./assets/accessibility-code-refactor-site.PNG)
+### Deployment
 
+1. Upload index.html and assets folder to webhosting site, such as GitHub.
+1. If using GitHub, deploy via GitHub Pages.
 
 ## Built With
 
@@ -27,7 +33,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Deployed Page
 
 * [See Live Site](https://starryblue7.github.io/accessibility-code-refactor/)
-
 
 ## Author
 
