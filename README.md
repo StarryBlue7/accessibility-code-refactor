@@ -55,6 +55,10 @@ Vince Lee
 - [Github](https://github.com/StarryBlue7)
 - [LinkedIn](https://www.linkedin.com/in/vince-lee/)
 
+## License
+
+License: [MIT License](https://vince-lee.mit-license.org/)
+
 
 ## Acknowledgments
 
